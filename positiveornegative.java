@@ -1,9 +1,9 @@
-import javax.lang.model.util.ElementScanner14;
+//import javax.lang.model.util.ElementScanner14;
 
 public class positiveornegative {
     public static void main(String args[]){
         int n ;
-        n=0;
+        n=1;
         if(n<0)
           System.out.print(n+" is negative");
         else if(n>0)
